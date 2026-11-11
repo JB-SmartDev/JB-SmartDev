@@ -1,68 +1,74 @@
-<h1 align="center">Hey, I'm JB 👋</h1>
-
-<h3 align="center">Developer | Builder | Tech Explorer</h3>
+<h1 align="center">root@JB-SmartDev:~$ whoami</h1>
 
 <p align="center">
-  <i>Turning ideas into digital experiences, one project at a time.</i>
+  <samp>
+    ACCESS GRANTED ▌ SYSTEM INITIALIZED ▌ USER: JB
+  </samp>
+</p>
+
+<h3 align="center">
+  Software Developer | Digital Creator | System Explorer
+</h3>
+
+<p align="center">
+  <code>Think in logic. Build in code. Break limitations.</code>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### `// ABOUT_ME`
 
-I'm a Computer Science student, developer and technology enthusiast interested in building practical solutions and exploring emerging technologies.
+```bash
+$ whoami
+JB — A Computer Science student exploring the digital frontier.
 
-- 🌐 Exploring **Frontend & Backend Development**
-- 🐍 Building with **Python**
-- 🎨 Developing websites with **WordPress**
-- ⛓️ Exploring **Web3 and Blockchain Technology**
-- 🤖 Interested in **AI and emerging technologies**
-- 🔭 Constantly experimenting, learning and building.
+$ mission
+Turning ideas into functional digital experiences.
 
-### 🛠️ Technologies & Tools
+$ interests
+- Software & Web Development
+- Python Engineering
+- WordPress Development
+- Web3 & Decentralized Systems
+- Artificial Intelligence
+- Emerging Technologies
+```
 
-**Languages**
-- Python
-- HTML
-- CSS
-- JavaScript
+### `// TECH_STACK`
 
-**Web Development**
-- WordPress
-- React
-- Vite
-- Responsive Web Design
+```text
+[ LANGUAGES ]     Python | JavaScript | HTML | CSS
+[ WEB ]           React | Vite | WordPress
+[ TOOLS ]         Git | GitHub | VS Code
+[ CREATIVE ]      CorelDRAW | Digital Design
+[ EXPLORING ]     Web3 | AI | Backend Engineering
+```
 
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- CorelDRAW
+### `// CURRENT_OPERATIONS`
 
-### 📌 What I'm Working Towards
+- Developing practical software projects.
+- Exploring backend engineering and automation.
+- Building responsive web experiences.
+- Experimenting with emerging technologies.
 
-- Building functional and responsive web applications.
-- Improving my Python development skills.
-- Exploring WordPress development and customisation.
-- Understanding backend architecture and APIs.
-- Exploring the intersection of AI, Web3 and software development.
+### `// TERMINAL`
 
-### 📊 GitHub Statistics
+```bash
+$ sudo ./build-the-future.sh
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JB-SmartDev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JB-SmartDev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+[+] Initializing ideas...
+[+] Compiling creativity...
+[+] Executing solutions...
+[+] Status: IN PROGRESS
 
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/JB-SmartDev">
-    <img src="https://img.shields.io/badge/GitHub-JB--SmartDev-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+$ echo "Never stop exploring."
+Never stop exploring.
+```
 
 ---
 
 <p align="center">
-  <b>Learn. Build. Break. Improve. Repeat.</b>
+  <code>01001010 01000010</code>
+  <br>
+  <b>ACCESS THE UNKNOWN. BUILD THE IMPOSSIBLE.</b>
 </p>
